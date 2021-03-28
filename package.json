@@ -1,0 +1,15 @@
+{
+  "name": "boilerpg",
+  "version": "1.0.0",
+  "description": "cli tool to generate boilerplate code",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "burakbilgehan",
+  "license": "ISC",
+  "bin": {
+    "hello-bpg": "./bin/index.js"
+  }
+}
