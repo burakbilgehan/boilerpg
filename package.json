@@ -10,6 +10,6 @@
   "author": "burakbilgehan",
   "license": "ISC",
   "bin": {
-    "hello-bpg": "./bin/index.js"
+    "boilerpg": "./bin/index.js"
   }
 }

@@ -26,7 +26,7 @@ const createDirectory = (dir) => {
     fs.mkdirSync(dir);
   }
   fs.writeFileSync(
-    dir.concat("/test.jsx"),
+    dir.concat("/test.tsx"),
     generateMainPage.generateMainPage()
   );
 };
