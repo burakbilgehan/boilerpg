@@ -141,3 +141,5 @@ const generate = (dir) => {
 };
 
 generate(newPath);
+
+// another test from jetbrains space
