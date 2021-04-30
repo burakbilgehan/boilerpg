@@ -11,6 +11,8 @@ function editCommonRoutes(text, pageName, categoryName) {
       break;
     }
   }
+    
+  // another test
 
   const editedTemplate =
     text.slice(0, startPos + 1) + `\n      <PrivateRoute
